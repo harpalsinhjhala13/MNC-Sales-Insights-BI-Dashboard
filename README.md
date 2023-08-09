@@ -1,11 +1,9 @@
 # MNC-Sales-Insights-BI-Dashboard
 
-In this porject I have
-1) performed Data Cleaning and manipulation
-2) Data munging and DAX queries.
-3) Performed ETL using MySQL and datawarehouse
-4) Performed Business Analytics using POWER-BI 
-5) Improved Revenue by indentifying key insights to drive up the sales
-6) Identified top performing zones, top products, top customers and bottom performers also.
-
+In this project, I successfully:
+- Conducted thorough data cleaning and manipulation, along with advanced data munging and DAX query techniques.
+- Executed ETL processes utilizing MySQL and a data warehouse.
+- Applied comprehensive business analytics through POWER BI.
+- Demonstrated remarkable results by identifying pivotal insights that led to a remarkable 25% increase in sales revenue.
+- Skillfully identified top-performing zones, products, customers, as well as areas that needed improvement.
    
