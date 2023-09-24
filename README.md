@@ -2,6 +2,9 @@
 
    <img width="604" alt="P3 1" src="https://github.com/harpalsinhjhala13/MNC-Sales-Insights-BI-Dashboard/assets/141703984/4915c54e-a935-4ae3-9c49-d12880eaa658">
 
+
+
+
 **MNC-Sales-Insights-BI-Dashboard: A Data-Driven Success Story**
 
 In this transformative project, I embarked on a data-driven journey that revolutionized sales insights and drove a remarkable 25% increase in sales revenue for a multinational corporation (MNC). Through a combination of meticulous data cleaning, advanced data manipulation, SQL and Excel proficiency, powerful data visualization, and business analytics, I uncovered pivotal insights that transformed the company's profitability landscape.
