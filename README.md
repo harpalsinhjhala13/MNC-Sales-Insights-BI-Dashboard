@@ -5,6 +5,9 @@
 
 
 
+
+https://shorturl.at/bB347
+
 **MNC-Sales-Insights-BI-Dashboard: A Data-Driven Success Story**
 
 In this transformative project, I embarked on a data-driven journey that revolutionized sales insights and drove a remarkable 25% increase in sales revenue for a multinational corporation (MNC). Through a combination of meticulous data cleaning, advanced data manipulation, SQL and Excel proficiency, powerful data visualization, and business analytics, I uncovered pivotal insights that transformed the company's profitability landscape.
